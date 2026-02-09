@@ -1,0 +1,9 @@
+{
+	"name": "df-projetoazure",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b545f739-5c8b-4b57-8645-9700484981ca",
+		"tenantId": "a1a36dda-a250-44a2-aefa-99ce36840efa"
+	}
+}
